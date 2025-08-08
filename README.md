@@ -1,4 +1,4 @@
-# OSCD-Det
+# OSCD
 Official implementation of our paper.
 # Note
 Relevant source will be released after acceptance.
