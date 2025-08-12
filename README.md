@@ -1,30 +1,29 @@
 # OSCD
 Official implementation of our paper.
 
-## Proposed Modules
-Details about the proposed modules implementation are in `./modules.py.`  
-The configs of the models are in `./configs/`
 
-## Data and weights
-Relevant datasets and checkpoints can be acquired from this google_drive[].
+## 1. Proposed Modules
+- The implementation of the proposed modules is in [`modules.py`](./modules.py).  
+- Model configurations are located in the [`configs/`](./configs/) directory.
 
-## Implement
-### Seetings
-First, please prepare the environment.
+## 2. Data and Pretrained Weights
+Relevant datasets and pretrained model checkpoints can be accessed from our [Google Drive](./) *(link to be updated after acceptance)*.
+
+## 3. Implement
+### 3.1 Environment Setup
 ```
 pip install -r requirements.txt
 ```
 
-### Train
+### 3.2 Train
 ```
 python train.py  --epoch 400 --batch 16
 ```
 
-### Val
+### 3.3 Val
 ```
 python val.py
 ```
-
 
 # Note
 Relevant source will be released after acceptance.
