@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ### 3.2 Train
 ```
-python train.py  --epoch 400 --batch 16
+python train.py --epoch 400 --batch 16
 ```
 
 ### 3.3 Val
