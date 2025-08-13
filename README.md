@@ -24,6 +24,10 @@ python train.py --epoch 400 --batch 16
 ```
 python val.py
 ```
+### 3.4 System
+```
+python system.py --source 'stream' --strain True --save './results'
+```
 
 # Note
 Relevant source will be released after acceptance.
