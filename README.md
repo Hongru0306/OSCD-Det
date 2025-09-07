@@ -30,4 +30,4 @@ python system.py --source 'stream' --strain True --save './results'
 ```
 
 # Note
-Relevant source will be released after acceptance.
+All relevant source will be released after acceptance.
