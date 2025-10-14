@@ -1,5 +1,5 @@
 # OSCD
-Official implementation of our paper.
+Orientation-Aware Detection System for Real-Time Monitoring of Cracks in Steel Structures.
 
 
 ## 1. Detailed information
@@ -30,4 +30,4 @@ python heatmap.py
 ```
 
 # Note
-All relevant source will be released after acceptance.
+Citation is comming soon!
