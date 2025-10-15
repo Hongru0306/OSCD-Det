@@ -3,7 +3,7 @@ Orientation-Aware Detection System for Real-Time Monitoring of Cracks in Steel S
 
 
 <p align="center">
-  <img src="./imgs/system.jpg" width="60%">
+  <img src="./imgs/system.jpg" width="70%">
 </p>
 <p align="center">
   <em>Steel Structure Crack Monitor System.</em>
@@ -14,7 +14,7 @@ Orientation-Aware Detection System for Real-Time Monitoring of Cracks in Steel S
 - The heatmap generation script is in [`heatmap`](./heatmap.py).
 
 ## 2. Data and trained weights
-Relevant datasets and trained model checkpoints can be accessed from our [Google Drive](./) *(link to be updated after acceptance)*.
+Relevant datasets and trained model checkpoints can be accessed from our [Google Drive](./).
 
 ## 3. Implement
 ### 3.1 Environment Setup
