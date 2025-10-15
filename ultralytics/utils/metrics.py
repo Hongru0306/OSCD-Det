@@ -884,7 +884,7 @@ def probiou(obb1, obb2, CIoU=False, eps=1e-7):
     bd = (t1 + t2 + t3).clamp(eps, 100.0)
     hd = (1.0 - (-bd).exp() + eps).sqrt()
     iou = 1 - hd
-    CIoU = False
+    CIoU = True
 
     if CIoU:  # only include the wh aspect ratio part
 
