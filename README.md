@@ -1,6 +1,13 @@
 # OSCD
-Orientation-Aware Detection System for Real-Time Monitoring of Cracks in Steel Structures.
+Orientation-Aware Detection System for Real-Time Monitoring of Cracks in Steel Structures. (ESWA 25)
 
+
+<p align="center">
+  <img src="./imgs/system.jpg" width="60%">
+</p>
+<p align="center">
+  <em>Steel Structure Crack Monitor System.</em>
+</p>
 
 ## 1. Detailed information
 - The experiment setting configs are in [`configs`](./configs).  
